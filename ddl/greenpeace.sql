@@ -4937,8 +4937,8 @@ CREATE TABLE IF NOT EXISTS `users` (
 
 INSERT INTO `users` (`uid`, `name`, `pass`, `mail`, `theme`, `signature`, `signature_format`, `created`, `access`, `login`, `status`, `timezone`, `language`, `picture`, `init`, `data`) VALUES
 (0, '', '', '', '', '', NULL, 0, 0, 0, 0, NULL, '', 0, '', NULL),
-(1, 'giarcjc', '$S$DCrTCPneb/Zw57QaUAZs/sAeeHDpZEBAPd//go1kIWsTuwOP8GVO', 'christopher.craig@sungard.com', '', '', 'filtered_html', 1368465423, 1368732317, 1368732429, 1, 'America/New_York', '', 0, 'christopher.craig@sungard.com', 0x613a313a7b733a373a226f7665726c6179223b693a313b7d),
-(2, 'mike', '$S$DFd.UPAQg9Cq.IUuZrDL70F7FSa.z0vqGKeHRyMtHy7wj3azxHCk', 'Michael.J.Green@sungard.com', '', '', 'filtered_html', 1368725326, 1368731794, 1368731794, 1, 'America/New_York', '', 1, 'chris@cjcraig.com', 0x623a303b);
+(1, 'giarcjc', 'not here', 'christopher.craig@sungard.com', '', '', 'filtered_html', 1368465423, 1368732317, 1368732429, 1, 'America/New_York', '', 0, 'christopher.craig@sungard.com', 0x613a313a7b733a373a226f7665726c6179223b693a313b7d),
+(2, 'mike', 'not here', 'Michael.J.Green@sungard.com', '', '', 'filtered_html', 1368725326, 1368731794, 1368731794, 1, 'America/New_York', '', 1, 'chris@cjcraig.com', 0x623a303b);
 
 -- --------------------------------------------------------
 
