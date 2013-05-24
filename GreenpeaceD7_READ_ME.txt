@@ -5,8 +5,8 @@ To view locally:
 Download wamp: http://www.wampserver.com/en/#download-wrapper
 
 create mysql user: 
-user: green
-pass: green
+user: x
+pass: x
 
 create mysql db: 
 DB name: greenpeace
@@ -22,8 +22,8 @@ however if your local version of tomcat is using port 80 or 8080 you might need 
 http://localhost:90/greenpeace/
 
 users: 
-giarcjc - admin 
-mike - (pass: greenpeace)
+x - x 
+x - x
 
 Those are the only ones right now but we can add as many as necessary, and keep the pass as greenpeace for simplicity.
 
